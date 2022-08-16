@@ -3,7 +3,7 @@
 
 ## Description
 ### Objective
-On February 24th, 2022, Russian President Valdimir Putin initiated the invasion of Ukraine, calling the attack a ‘special military operation’. Many people used social media to join the conversation. This project analyzes the public's changing response to the conflict in Ukraine over time. Twitter is used as a tool to gauge large scale opinions and sentiment. 
+On February 24th, 2022, Russian President Valdimir Putin initiated the invasion of Ukraine, calling the attack a "special military operation". Many people used social media to join the conversation. This project analyzes the public's changing response to the conflict in Ukraine over time. Twitter is used as a tool to gauge large scale opinions and sentiment. 
 
 ### Dataset
 - The dataset used a Twitter streaming API to collect posts in real time. Data features include hashtags, daily tweet frequency, user's geography, and basic dataset statistics. From February 24th to March 27th, there are 200K average daily volume of tweets from a total of 900K twitter users. 
