@@ -13,7 +13,7 @@ On February 24th, 2022, Russian President Valdimir Putin initiated the invasion 
 - Citation: Haq, Ehsan-Ul, et al. "Twitter Dataset for 2022 Russo-Ukrainian Crisis." arXiv preprint arXiv:2203.02955 (2022)
 
 ## Methodology
-- Natural Language Processing: performed Sentiment Analysis using Python nltk package 
+- ####Natural Language Processing: performed Sentiment Analysis using Python nltk package####
   - SentimentIntensityAnalyzer calculates positivity score
   - Textblob calculates subjectivity score 
   
