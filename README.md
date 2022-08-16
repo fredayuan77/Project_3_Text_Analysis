@@ -16,15 +16,18 @@ On February 24th, 2022, Russian President Valdimir Putin initiated the invasion 
 - Natural Language Processing: performed Sentiment Analysis using Python nltk package 
   - SentimentIntensityAnalyzer calculates positivity score
   - Textblob calculates subjectivity score 
+  
 - Text Preprocessing
   - Filtered to English tweets only
   - Cleaned tweets to remove non-character contents (emoji)
   - Removed stop words
   - Stemmed tweets
+  
 - General discriptive analysis
-  - the most popular hashtags each day
-  - tweets length for positive vs. negative and subjective vs. objective
-  - Geography comparison: USA, Ukraine, vs. other countries response
+  - The most popular hashtags each day
+  - Tweets length for positive vs. negative and subjective vs. objective
+  - Geography differences: USA, Ukraine, vs. other countries response
+  
 - Data Visualization
   - Word Cloud 
   - Distribution density plot
