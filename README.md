@@ -14,8 +14,8 @@ On February 24th, 2022, Russian President Valdimir Putin initiated the invasion 
 
 ## Methodology
 - Natural Language Processing: performed Sentiment Analysis using Python nltk package 
-  - SentimentIntensityAnalyzer to calculate positivity score
-  - Textblob to calculate subjectivity score 
+  - SentimentIntensityAnalyzer calculates positivity score
+  - Textblob calculates subjectivity score 
 - Text Preprocessing
   - Filtered to English tweets only
   - Cleaned tweets to remove non-character contents (emoji)
